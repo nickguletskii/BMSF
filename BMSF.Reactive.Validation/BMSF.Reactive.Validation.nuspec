@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BMSF.Reactive.Validation</id>
+    <version>$version$</version>
+    <title>BMSF Reactive Validation</title>
+    <authors>Nick Guletskii</authors>
+    <owners>Nick Guletskii</owners>
+    <licenseUrl>https://gitlab.com/nickguletskii/BMSF/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://gitlab.com/nickguletskii/BMSF/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>BMSF Reactive Validation is a library for creating composable, reactive, asynchronous validators powered by ReactiveUI.</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>Rx ReactiveUI validation</tags>
+  </metadata>
+</package>

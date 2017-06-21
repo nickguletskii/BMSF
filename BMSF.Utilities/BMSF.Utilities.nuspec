@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BMSF.Utilities</id>
+    <version>$version$</version>
+    <title>BMSF Utilitites</title>
+    <authors>Nick Guletskii</authors>
+    <owners>Nick Guletskii</owners>
+    <licenseUrl>https://gitlab.com/nickguletskii/BMSF/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://gitlab.com/nickguletskii/BMSF/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>BMSF utilities</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>async </tags>
+  </metadata>
+</package>

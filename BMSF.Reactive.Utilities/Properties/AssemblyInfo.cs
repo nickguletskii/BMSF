@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("BMSF.Reactive.Utilitites")]
-[assembly: AssemblyDescription("BMSF reactive utlities")]
+[assembly: AssemblyDescription("BMSF reactive utilities")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Nick Guletskii")]
 [assembly: AssemblyProduct("BMSF")]

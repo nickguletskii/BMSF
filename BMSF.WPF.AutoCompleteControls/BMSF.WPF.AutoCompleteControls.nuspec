@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BMSF.WPF.AutoCompleteControls</id>
+    <version>$version$</version>
+    <title>BMSF AutoComplete controls</title>
+    <authors>Nick Guletskii</authors>
+    <owners>Nick Guletskii</owners>
+    <licenseUrl>https://gitlab.com/nickguletskii/BMSF/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://gitlab.com/nickguletskii/BMSF/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>BMSF AutoComplete controls are WPF controls for asynchronous reactive textbox autocompletion and in-place searching.</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>Rx ReactiveUI WPF</tags>
+  </metadata>
+</package>
